@@ -14,3 +14,4 @@ function sammenliknKortEtterTall(kortA, kortB) {
     return tallA - tallB
 }
 
+
